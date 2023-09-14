@@ -1,5 +1,4 @@
 # Spatwater.nl 
-🚧 **JAAR 2 PROJECT**
 
 <img width="400" alt="image" src="https://github.com/fdnd-agency/SPATwater/assets/1061632/bfcf5132-226c-4055-b372-c911c744a13b">
 
