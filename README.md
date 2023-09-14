@@ -8,7 +8,7 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
 
 # bRAIN (project jaar 1)
 
-<img width="382" alt="image" src="https://github.com/fdnd-agency/SPATwater/assets/1061632/27629a23-fea3-4e93-9c3b-533a694b4044">
+<img width="100" alt="image" src="https://github.com/fdnd-agency/SPATwater/assets/1061632/27629a23-fea3-4e93-9c3b-533a694b4044">
 
 bRAIN is het project rondom het koppelen van weerberichten aan wateropvang/gebruik in de tuin.
 
@@ -25,7 +25,8 @@ Weersextremen in Nederland nemen steeds verder toe. Enerzijds komen periode van 
 
 # Spatwater.nl (project jaar 2)
 
-{Visual}
+<img width="300" alt="image" src="https://github.com/fdnd-agency/SPATwater/assets/1061632/bfcf5132-226c-4055-b372-c911c744a13b">
+
 
 {Beschrijving}
 
