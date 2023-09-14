@@ -7,7 +7,7 @@ Met expertise op het gebied van waterkwaliteit, de Kaderrichtlijn Water en klima
 Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatieve als praktische oplossingen. 
 
 # bRAIN
-(project jaar 1)
+JAAR 1 PROJECT
 
 <img width="100" alt="image" src="https://github.com/fdnd-agency/SPATwater/assets/1061632/27629a23-fea3-4e93-9c3b-533a694b4044">
 
@@ -25,7 +25,7 @@ Weersextremen in Nederland nemen steeds verder toe. Enerzijds komen periode van 
 [Content]()  
 
 # Spatwater.nl 
-(project jaar 2)
+JAAR 2 PROJECT
 
 <img width="400" alt="image" src="https://github.com/fdnd-agency/SPATwater/assets/1061632/bfcf5132-226c-4055-b372-c911c744a13b">
 
