@@ -12,7 +12,7 @@ B-rain wil bewoners positief betrokken houden bij het bufferen van regenwater en
 
 ## Resources
 
-[Backlog](https://github.com/orgs/fdnd-agency/projects/19)
+[Backlog](https://github.com/orgs/fdnd-agency/projects/19/views/2)
 
 [Huisstijl]()  
 
