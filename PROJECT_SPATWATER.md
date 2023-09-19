@@ -8,7 +8,7 @@ Daarnaast ligt er een designvraag waarbij we graag projecten op een kaart zouden
 
 ## Resources
 
-[Backlog](https://github.com/orgs/fdnd-agency/projects/20)
+[Backlog](https://github.com/orgs/fdnd-agency/projects/20/views/2)
 
 [Huisstijl]()  
 
