@@ -16,3 +16,8 @@ Daarnaast ligt er een designvraag waarbij we graag projecten op een kaart zouden
 [Content]()  
 
 [SPATwater.nl](https://spatwater.nl/)
+
+## Preferred tech stack
+
+Framework: [SvelteKit](https://kit.svelte.dev/)   
+Headless CMS: [Hygraph](https://hygraph.com/)
