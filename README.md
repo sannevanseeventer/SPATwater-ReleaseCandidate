@@ -4,7 +4,11 @@ SPATwater bestaat uit een nieuwe generatie enthousiaste hydrologen die met een t
 
 Met expertise op het gebied van waterkwaliteit, de Kaderrichtlijn Water en klimaatadaptatie helpt SPATwater overheden en bedrijven om toekomstbestendig en waterrobuust te worden.
 
-Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatieve als praktische oplossingen. 
+Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatieve als praktische oplossingen.
+
+Met B-rain willen we met het inpassen van een slim systeem piekbuien en droogte op kunnen vangen, terwijl we particulieren bewuster maken van het watersysteem buiten hun huis.
+
+Onze bedrijfswebsite behoeft doorontwikkeling, met mogelijkheden om zelf content aan te kunnen passen. Ook moet content goed gevonden kunnen worden via zoekmachines. Daarnaast moet het zien van de website als potentiele klant een frisse ervaring en verwondering geven. Dit zouden we willen doen met behulp van een nieuwsbrief en een dynamische projectenkaart.
 
 ## Projecten
 
