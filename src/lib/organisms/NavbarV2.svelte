@@ -87,14 +87,7 @@
     <li><a href="/projecten" aria-label="Projecten">Projecten</a></li>
     <li><a href="/kaart" aria-label="Kansenkaart">Kansenkaart</a></li>
     <li>
-      <a class="green-link white" href="/#contact" aria-label="Contact"
-        ><span>Contact</span></a
-      >
-    </li>
-    <li>
-      <button class="contrast-toggle">
-        <span>Toggle contrast</span>
-      </button>
+      <a class="green-link white" href="/#contact" aria-label="Contact"><span>Contact</span></a>
     </li>
   </ul>
 </div>
@@ -181,49 +174,6 @@
     color: #fff;
   }
 
-  /* Contrastknop */
-
-  .contrast-toggle {
-    overflow: hidden;
-    position: relative;
-    display: block;
-    width: 2em;
-    height: 2em;
-    margin: 2em auto;
-    background: var(--white);
-    border: 0.1em solid var(--lg-bg);
-    border-radius: 50%;
-    box-shadow: 0 0 1.5em 0.5em var(--darkgrey);
-    cursor: pointer;
-    transform: translateZ(0);
-    margin-left: -2em;
-    margin-right: 2em;
-  }
-  .contrast-toggle > span {
-    clip: rect(1px, 1px, 1px, 1px);
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-    position: absolute;
-    white-space: nowrap;
-  }
-
-  .contrast-toggle::before {
-    content: "";
-    z-index: 0;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: var(--darkblue);
-    transform: translateX(-50%);
-    transition: transform 0.2s cubic-bezier(1, 1, 0, 1.3);
-  }
-
-  .contrast-toggle.is-toggled::before {
-    transform: translateX(50%);
-  }
 
   @media only screen and (max-width: 1100px) {
     .desktop-ul li {
@@ -236,10 +186,6 @@
 
     li {
       margin-top: 1.2rem;
-    }
-
-    .contrast-toggle {
-      margin-right: 2em;
     }
   }
 </style>
