@@ -1,17 +1,59 @@
-<img width="149" alt="image" src="https://github.com/fdnd-agency/SPATwater/assets/1061632/2d6f05c9-45b2-4241-b402-804682e3f35d">
 
-SPATwater bestaat uit een nieuwe generatie enthousiaste hydrologen die met een technische achtergrond nét wat anders kijken naar ruimtelijke opgaven. De uitdagingen zijn enorm, maar de kansen die het biedt nog groter.
+# SPAT-Water💧
 
-Met expertise op het gebied van waterkwaliteit, de Kaderrichtlijn Water en klimaatadaptatie helpt SPATwater overheden en bedrijven om toekomstbestendig en waterrobuust te worden.
+## Beschrijving 📃
+Ontwerp en ontwikkel een complexe, gebruiksvriendelijke en interactieve webapplicatie op basis van een bestaande api of een zelf in te richten headless CMS
 
-Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatieve als praktische oplossingen.
+![mockup3](https://github.com/sannevanseeventer/SPATwater-2.0/assets/112857444/e668acea-201f-4391-be72-2eb91ce4367d)
 
-Met B-rain willen we met het inpassen van een slim systeem piekbuien en droogte op kunnen vangen, terwijl we particulieren bewuster maken van het watersysteem buiten hun huis.
 
-Onze bedrijfswebsite behoeft doorontwikkeling, met mogelijkheden om zelf content aan te kunnen passen. Ook moet content goed gevonden kunnen worden via zoekmachines. Daarnaast moet het zien van de website als potentiele klant een frisse ervaring en verwondering geven. Dit zouden we willen doen met behulp van een nieuwsbrief en een dynamische projectenkaart.
 
-## Projecten
+## Inhoudsopgave
 
-Jaar 1: [bRAIN](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_BRAIN.md)   
-Jaar 2: [SPATwater.nl](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md)
+  * [Beschrijving📃](#beschrijving)
+  * [Gebruik👥](#gebruik)
+  * [Kenmerken✅](#kenmerken)
+  * [Installatie⚙️](#installatie)
+  * [Bronnen🌐](#bronnen)
+  * [Licentie](#licentie)
+    
+##  Gebruik  👥
 
+<!-- Voeg een link toe naar Github Pages 🌐-->
+
+
+## Kenmerken ✅
+<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+
+
+**TOOLS 🧰:**
+* VSCode
+* Miro
+* Figma
+  
+**GEBRUIKTE TECHNIEKEN 🛠️:**
+
+* Svelte
+* Sveltekit
+* Hygragh
+* JS
+* CSS
+  
+**COMMUNICATIE MIDDELEN 🗣️:**
+
+* Team Canvas
+* Microsoft Teams
+* Calls
+
+## Installatie ⚙️
+
+1. Clone of download deze repository naar de gewenste folder.
+2. Open de root directory van dit project en open het project in een code editor naar keuze.
+3. Gebruik npm install om de benodigde packages te downloaden voor dit project.
+4. Voor het gebruik van Hygraph om data in te laden gebruik dan het commando npm graphql-request om requesten te fetchen.
+5. Start een server met npm run dev.
+
+## Bronnen 🌐
+
+## Licentie
+This project is licensed under the terms of the MIT license.
